@@ -12,7 +12,7 @@ overview
 *  __diamonds__/___pentacles___ wealth/material-possesions
 *  __clubs__/___staves___ work/travel
 *  __hearts__/___cups___ emotion/family
-*  [__spades__/___swords___](/dtudury/tarot/blob/master/suits/spades.md) intellect/conflict
+*  [__spades__/___swords___](https://github.com/dtudury/tarot/blob/master/suits/spades.md) intellect/conflict
 
 
 ###ranks
